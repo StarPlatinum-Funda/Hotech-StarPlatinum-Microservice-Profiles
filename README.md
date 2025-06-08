@@ -9,8 +9,9 @@ Accesible towards: http://localhost:8080/swagger-ui/index.html
 - Delete bounded context but: IAM, Shared and your Microservice
 - Eliminar toda referencia a los ALC
 - Cambiar al base de datos
-- Puerto: 8001
-- Base de datos: 9001
+- Puerto: 8081
+- Base de datos: 3301
+- Otro: 8041
 
 ### Reference Documentation
 For further reference, please consider the following sections:
